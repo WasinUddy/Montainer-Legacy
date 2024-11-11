@@ -1,3 +1,5 @@
+# This is the legacy version of Montainer no longer in development.
+
 <p align="center">
     <img src="https://github.com/WasinUddy/Montainer/blob/main/logo.png?raw=true" width="300">
 </p>
